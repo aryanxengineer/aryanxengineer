@@ -1,98 +1,48 @@
-# 👋 Hi, I'm Aryan Yadav
+---
+### Recruiter Note
 
-🚀 **Full Stack Developer (MERN)** | Backend-focused | Performance-driven
+As a fresher, I believe proof matters more than claims.  
+This profile is intentionally structured to help recruiters quickly verify technical depth, engineering decisions, and real implementations from one place.
 
 ---
 
-## 🧠 Engineering Focus
+## How did I transition from learning syntax to understanding real-world software engineering?
 
-* Building **scalable backend systems**
-* Writing **clean, maintainable APIs**
-* Learning **system design & performance optimization**
-* Moving from **fresher → product-level engineer mindset**
+### Phase 1 — Guided Learning
+Started with frontend fundamentals and basic backend development through YouTube-based learning.
 
----
+Worked with:
+- HTML
+- CSS
+- JavaScript
+- GSAP
+- Locomotive Scroll
+- Basic CRUD applications
 
-## ⚙️ Tech Stack
+Projects Built:
+- Sidcup Golf Animated Website Clone — [Project Link]
+- Obys Agency Interactive Clone — [Project Link]
 
-### 💻 Core
+### Phase 2 — Structured Engineering Foundation
+Completed a structured MERN-focused program that shifted my focus from writing code to understanding:
+- backend architecture
+- application flow
+- documentation reading
+- scalable project structure
+- engineering fundamentals
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat\&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat\&logo=node.js)
-![React](https://img.shields.io/badge/React-black?style=flat\&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat\&logo=mongodb)
+Built projects using the MERN stack with JavaScript.
 
-### 🧱 Backend Focus
+### Phase 3 — Self-Directed Backend Engineering
+Moved toward independent learning through documentation, experimentation, debugging, and project building.
 
-* REST API Design
-* Authentication (JWT, OAuth)
-* Caching (Redis - learning phase)
-* DB Optimization (Indexing, Aggregation)
-* Async Processing
+Focused deeply on:
+- TypeScript
+- RabbitMQ
+- Microservices Architecture
+- Advanced MongoDB
+- Event-Driven Systems
+- Performance Optimization
+- Scalability Patterns
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merndeveloperaryan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merndeveloperaryan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merndeveloperaryan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=merndeveloperaryan&theme=tokyo-night&hide_border=true"/>
-
----
-
-## 🛠 Featured Projects (Replace with real ones)
-
-### 🔹 Scalable Auth System
-
-* JWT-based authentication
-* Refresh token rotation
-* Role-based access control
-
-### 🔹 Real-time Chat App
-
-* WebSockets (Socket.io)
-* Scalable message handling
-* Redis pub/sub (future scope)
-
-### 🔹 E-commerce Backend
-
-* Modular architecture
-* Payment integration
-* Order lifecycle management
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan-blue?logo=linkedin)](https://www.linkedin.com/in/aryanxengineer)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=react)](https://your-portfolio.com)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=merndeveloperaryan\&color=blue)
-
----
-
-## 🧭 Current Direction
-
-* Deep dive into **Node.js internals**
-* Learning **System Design (HLD + LLD)**
-* Building **production-grade backend projects**
-
----
-
-⚡ *Focused on becoming a backend engineer who can design systems, not just write code.*
+This phase involved solving real implementation challenges, debugging complex issues, and understanding production-style backend engineering beyond course-level concepts.
