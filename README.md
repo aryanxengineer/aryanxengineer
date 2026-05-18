@@ -22,54 +22,7 @@ This profile is intentionally structured to help recruiters quickly verify techn
 
 # Recommended First: My Engineering Journey, Skills, and Project Evolution
 
-## Phase 1 — Guided Learning
-
-Started with frontend fundamentals and basic backend development through YouTube-based learning.
-
-### Worked With
-- HTML
-- CSS
-- JavaScript
-- GSAP
-- Locomotive Scroll
-- Basic CRUD Applications
-
-### Projects Built From These Learnings
-- Sidcup Golf Animated Website Clone — [Project Link]
-- Obys Agency Interactive Clone — [Project Link]
-
----
-
-## Phase 2 — Structured Engineering Foundation
-
-Completed a MERN-focused program that shifted my focus from simply writing code to understanding software architecture, debugging, application flow, documentation, and scalable project structure.
-
-### Frontend
-- React
-- Redux
-- API Integrations
-- UI Performance Optimization
-- SEO Optimization
-- Debugging
-
-### Backend
-- Node.js
-- NPM
-- File Handling
-- HTTP Module
-- Express.js
-- MongoDB & Mongoose
-- JWT Authentication
-- Google OAuth
-- Multer
-- Caching
-- Payment Gateway Integration
-
-Built full-stack MERN applications while developing a stronger understanding of how production-grade systems are structured.
-
-### Projects Built From These Learnings
-- [Project Link]
-- [Project Link]
+> Ordered from latest to oldest to reflect my current engineering depth, learning direction, and technical progression over time.
 
 ---
 
@@ -109,6 +62,57 @@ This phase involved solving real implementation challenges, understanding distri
 
 ---
 
+## Phase 2 — Structured Engineering Foundation
+
+Completed a MERN-focused program that shifted my focus from simply writing code to understanding software architecture, debugging, application flow, documentation, and scalable project structure.
+
+### Frontend
+- React
+- Redux
+- API Integrations
+- UI Performance Optimization
+- SEO Optimization
+- Debugging
+
+### Backend
+- Node.js
+- NPM
+- File Handling
+- HTTP Module
+- Express.js
+- MongoDB & Mongoose
+- JWT Authentication
+- Google OAuth
+- Multer
+- Caching
+- Payment Gateway Integration
+
+Built full-stack MERN applications while developing a stronger understanding of how production-grade systems are structured.
+
+### Projects Built From These Learnings
+- [Project Link]
+- [Project Link]
+
+---
+
+## Phase 1 — Guided Learning
+
+Started with frontend fundamentals and basic backend development through YouTube-based learning.
+
+### Worked With
+- HTML
+- CSS
+- JavaScript
+- GSAP
+- Locomotive Scroll
+- Basic CRUD Applications
+
+### Projects Built From These Learnings
+- Sidcup Golf Animated Website Clone — [Project Link]
+- Obys Agency Interactive Clone — [Project Link]
+
+---
+
 # How do I approach learning and solving engineering problems?
 
 Over time, my learning approach shifted from following tutorials to understanding how systems work internally.
@@ -129,27 +133,31 @@ My primary focus is not just learning syntax, but understanding why systems are 
 
 # What am I currently focused on?
 
-### Currently Learning Deeply
+### Backend Engineering
 - Distributed Systems
-- Advanced TypeScript Patterns
 - System Design
 - Scalability Patterns
 - Backend Performance Engineering
 - Event-Driven Architecture
-- Database Internals
 - Production-Level Microservices
 
-### Current Engineering Goals
-- Build highly scalable backend systems
-- Improve architecture decision making
-- Strengthen low-level backend understanding
-- Write cleaner and more maintainable systems
-- Move toward production-grade engineering standards
+### Problem Solving & Communication
+- Data Structures & Algorithms
+- Communication Skills
+- Technical Explanation & System Thinking
+
+### DSA Progress
+- Solved 110+ Problems on LeetCode  
+  https://leetcode.com/u/aryanxengineer/
 
 ---
 
 # Resume
 
-> View Resume — [Resume Link]
+[View Resume](./resume.pdf)
+
+<!-- Optional Direct PDF Embed -->
+
+<embed src="./resume.pdf" type="application/pdf" width="100%" height="700px" />
 
 ---
