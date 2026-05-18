@@ -1,4 +1,9 @@
+# Aryan Yadav
+
+Backend-focused engineer building scalable applications and production-style systems through implementation-first learning, architecture understanding, and real-world problem solving.
+
 ---
+
 ### Recruiter Note
 
 As a fresher, I believe proof matters more than claims.  
@@ -6,38 +11,40 @@ This profile is intentionally structured to help recruiters quickly verify techn
 
 ---
 
-## Quick Navigation
+# Quick Navigation
 
-- [How did I transition into real-world software engineering?](#how-did-i-transition-from-learning-syntax-to-understanding-real-world-software-engineering)
-- [What projects have I built?](#projects)
-- [What engineering concepts have I implemented?](#engineering-concepts--implementations)
-- [What am I currently learning?](#current-focus)
+- [Recommended First: My Engineering Journey, Skills, and Project Evolution](#recommended-first-my-engineering-journey-skills-and-project-evolution)
+- [How do I approach learning and solving engineering problems?](#how-do-i-approach-learning-and-solving-engineering-problems)
+- [What am I currently focused on?](#what-am-i-currently-focused-on)
+- [Resume](#resume)
 
 ---
 
-## How did I transition from learning syntax to understanding real-world software engineering?
+# Recommended First: My Engineering Journey, Skills, and Project Evolution
 
-### Phase 1 — Guided Learning
+## Phase 1 — Guided Learning
+
 Started with frontend fundamentals and basic backend development through YouTube-based learning.
 
-**Worked With**
+### Worked With
 - HTML
 - CSS
 - JavaScript
 - GSAP
 - Locomotive Scroll
-- Basic CRUD applications
+- Basic CRUD Applications
 
-**Projects**
+### Projects Built From These Learnings
 - Sidcup Golf Animated Website Clone — [Project Link]
 - Obys Agency Interactive Clone — [Project Link]
 
 ---
 
-### Phase 2 — Structured Engineering Foundation
+## Phase 2 — Structured Engineering Foundation
+
 Completed a MERN-focused program that shifted my focus from simply writing code to understanding software architecture, debugging, application flow, documentation, and scalable project structure.
 
-**Frontend**
+### Frontend
 - React
 - Redux
 - API Integrations
@@ -45,7 +52,7 @@ Completed a MERN-focused program that shifted my focus from simply writing code 
 - SEO Optimization
 - Debugging
 
-**Backend**
+### Backend
 - Node.js
 - NPM
 - File Handling
@@ -58,37 +65,91 @@ Completed a MERN-focused program that shifted my focus from simply writing code 
 - Caching
 - Payment Gateway Integration
 
-**Projects**
+Built full-stack MERN applications while developing a stronger understanding of how production-grade systems are structured.
+
+### Projects Built From These Learnings
 - [Project Link]
 - [Project Link]
 
 ---
 
-### Phase 3 — Self-Directed Engineering
+## Phase 3 — Self-Directed Engineering
+
 Transitioned toward independent learning through documentation, architecture analysis, debugging, experimentation, and self-built projects.
 
 Focused on implementing systems independently using TypeScript while learning advanced engineering concepts.
 
-**Engineering Concepts & Implementations**
-- TypeScript Backend Development → [Project Link]
-- Scalable Backend Architecture → [Project Link]
-- Microservices Architecture → [Project Link]
-- RabbitMQ → [Project Link]
-- Event-Driven Systems → [Project Link]
-- Cache Invalidation → [Project Link]
-- Database Optimization → [Project Link]
-- Indexing & Query Optimization → [Project Link]
-- Transactions & Schema Design → [Project Link]
-- Performance Optimization → [Project Link]
+### Advanced Engineering Concepts
+- TypeScript Backend Development
+- Scalable Backend Architecture
+- Database Optimization
+- Query Optimization
+- Indexing
+- Transactions
+- Schema Design
+- Cache Invalidation
+- Performance Optimization
+- Microservices Architecture
+- RabbitMQ
+- Event-Driven Systems
 
-**Code Quality & Architecture**
-- SOLID Principles → [Project Link]
-- Repository Abstraction → [Project Link]
-- Dependency Injection → [Project Link]
-- Modular Architecture → [Project Link]
-- Module-Based Project Structure → [Project Link]
-- Module-Based Microservices Design → [Project Link]
+### Code Quality & System Design
+- SOLID Principles
+- Repository Abstraction
+- Dependency Injection
+- Modular Architecture
+- Module-Based Project Structure
+- Module-Based Microservices Design
 
-**Projects**
-- [Project Link]
-- [Project Link]
+This phase involved solving real implementation challenges, understanding distributed workflows, and building production-style systems beyond tutorial and course-level development.
+
+### Projects Built From These Learnings
+- Social Media Platform — [Project Link]
+- Food Delivery Microservices System — [Project Link]
+
+---
+
+# How do I approach learning and solving engineering problems?
+
+Over time, my learning approach shifted from following tutorials to understanding how systems work internally.
+
+When learning new technologies or solving unfamiliar engineering problems, I usually focus on:
+- understanding architecture and workflows first
+- reading documentation before implementation
+- breaking systems into smaller modules
+- debugging deeply instead of patch-fixing
+- experimenting independently
+- avoiding blind copy-paste development
+- understanding scalability and maintainability tradeoffs
+- writing reusable and modular code
+
+My primary focus is not just learning syntax, but understanding why systems are designed in a certain way and how they behave under real-world conditions.
+
+---
+
+# What am I currently focused on?
+
+### Currently Learning Deeply
+- Distributed Systems
+- Advanced TypeScript Patterns
+- System Design
+- Scalability Patterns
+- Backend Performance Engineering
+- Event-Driven Architecture
+- Database Internals
+- Production-Level Microservices
+
+### Current Engineering Goals
+- Build highly scalable backend systems
+- Improve architecture decision making
+- Strengthen low-level backend understanding
+- Write cleaner and more maintainable systems
+- Move toward production-grade engineering standards
+
+---
+
+# Resume
+
+> View Resume — [Resume Link]
+
+---
