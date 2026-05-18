@@ -6,12 +6,21 @@ This profile is intentionally structured to help recruiters quickly verify techn
 
 ---
 
+## Quick Navigation
+
+- [How did I transition into real-world software engineering?](#how-did-i-transition-from-learning-syntax-to-understanding-real-world-software-engineering)
+- [What projects have I built?](#projects)
+- [What engineering concepts have I implemented?](#engineering-concepts--implementations)
+- [What am I currently learning?](#current-focus)
+
+---
+
 ## How did I transition from learning syntax to understanding real-world software engineering?
 
 ### Phase 1 — Guided Learning
 Started with frontend fundamentals and basic backend development through YouTube-based learning.
 
-Worked with:
+**Worked With**
 - HTML
 - CSS
 - JavaScript
@@ -19,30 +28,67 @@ Worked with:
 - Locomotive Scroll
 - Basic CRUD applications
 
-Projects Built:
+**Projects**
 - Sidcup Golf Animated Website Clone — [Project Link]
 - Obys Agency Interactive Clone — [Project Link]
 
+---
+
 ### Phase 2 — Structured Engineering Foundation
-Completed a structured MERN-focused program that shifted my focus from writing code to understanding:
-- backend architecture
-- application flow
-- documentation reading
-- scalable project structure
-- engineering fundamentals
+Completed a MERN-focused program that shifted my focus from simply writing code to understanding software architecture, debugging, application flow, documentation, and scalable project structure.
 
-Built projects using the MERN stack with JavaScript.
+**Frontend**
+- React
+- Redux
+- API Integrations
+- UI Performance Optimization
+- SEO Optimization
+- Debugging
 
-### Phase 3 — Self-Directed Backend Engineering
-Moved toward independent learning through documentation, experimentation, debugging, and project building.
+**Backend**
+- Node.js
+- NPM
+- File Handling
+- HTTP Module
+- Express.js
+- MongoDB & Mongoose
+- JWT Authentication
+- Google OAuth
+- Multer
+- Caching
+- Payment Gateway Integration
 
-Focused deeply on:
-- TypeScript
-- RabbitMQ
-- Microservices Architecture
-- Advanced MongoDB
-- Event-Driven Systems
-- Performance Optimization
-- Scalability Patterns
+**Projects**
+- [Project Link]
+- [Project Link]
 
-This phase involved solving real implementation challenges, debugging complex issues, and understanding production-style backend engineering beyond course-level concepts.
+---
+
+### Phase 3 — Self-Directed Engineering
+Transitioned toward independent learning through documentation, architecture analysis, debugging, experimentation, and self-built projects.
+
+Focused on implementing systems independently using TypeScript while learning advanced engineering concepts.
+
+**Engineering Concepts & Implementations**
+- TypeScript Backend Development → [Project Link]
+- Scalable Backend Architecture → [Project Link]
+- Microservices Architecture → [Project Link]
+- RabbitMQ → [Project Link]
+- Event-Driven Systems → [Project Link]
+- Cache Invalidation → [Project Link]
+- Database Optimization → [Project Link]
+- Indexing & Query Optimization → [Project Link]
+- Transactions & Schema Design → [Project Link]
+- Performance Optimization → [Project Link]
+
+**Code Quality & Architecture**
+- SOLID Principles → [Project Link]
+- Repository Abstraction → [Project Link]
+- Dependency Injection → [Project Link]
+- Modular Architecture → [Project Link]
+- Module-Based Project Structure → [Project Link]
+- Module-Based Microservices Design → [Project Link]
+
+**Projects**
+- [Project Link]
+- [Project Link]
