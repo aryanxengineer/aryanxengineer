@@ -57,8 +57,8 @@ Focused on implementing systems independently using TypeScript while learning ad
 This phase involved solving real implementation challenges, understanding distributed workflows, and building production-style systems beyond tutorial and course-level development.
 
 ### Projects Built From These Learnings
-- Social Media Platform — [Project Link]
-- Food Delivery Microservices System — [Project Link]
+- Social Media Platform — https://github.com/aryanxengineer/social-media-platform
+- Food Delivery Microservices System — https://github.com/aryanxengineer/food-delivery-system
 
 ---
 
@@ -108,8 +108,8 @@ Started with frontend fundamentals and basic backend development through YouTube
 - Basic CRUD Applications
 
 ### Projects Built From These Learnings
-- Sidcup Golf Animated Website Clone — [Project Link]
-- Obys Agency Interactive Clone — [Project Link]
+- Sidcup Golf Animated Website Clone — https://github.com/aryanxengineer/frontend-projects/tree/main/sidcup-golf
+- Obys Agency Interactive Clone — https://github.com/aryanxengineer/frontend-projects/tree/main/obys-clone
 
 ---
 
